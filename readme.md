@@ -16,3 +16,5 @@
 12. git branch -d rama-heroes
 13. git push (sube los cambios al repositorio de github)
 14. git commit -am (sirve para hacer el git add y git commit de forma simultanea)
+15. git status
+16. git push -u (nombre del repositorio) (rama)
